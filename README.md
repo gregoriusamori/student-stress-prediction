@@ -6,8 +6,8 @@ Repositori ini berisi kode sumber untuk Tugas Besar Mata Kuliah **Cloud Computin
 Aplikasi web berbasis Python (Streamlit) yang menerima kuesioner dari pengguna lalu mengklasifikasikan tingkat stres/kesehatan mental mahasiswa secara otomatis. Aplikasi ini dideploy ke lingkungan cloud menggunakan **Hugging Face Spaces**.
 
 ## Informasi Proyek
-- **Nama Mahasiswa:** [Nama Anda]
-- **NIM:** [NIM Anda]
+- **Nama Mahasiswa:** Gregorius Amori
+- **NIM:** 11203462310069
 - **Mata Kuliah:** Cloud Computing (Semester 7)
 - **Cloud Platform:** Hugging Face Spaces
 - **Repository GitHub:** https://github.com/gregoriusamori/student-stress-prediction
